@@ -1,5 +1,5 @@
 # State-Transition-Model
-This repo contains a SystemC code (C++ code + SystemC library) to control a set of 3 lights based on the switches pressed
+This repo contains a SystemC code to control a set of 3 lights based on the switches pressed
 
 The switches p1 and p2 act as the inputs and the lights l1, l2 and l3 are switched based on the below transition table:
 
